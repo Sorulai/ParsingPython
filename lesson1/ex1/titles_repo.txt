@@ -1,0 +1,8 @@
+Sorulai/FilmApp + 
+Sorulai/Go-example + 
+Sorulai/JavaScript + 
+Sorulai/mishka + 
+Sorulai/pink + 
+Sorulai/python + 
+Sorulai/pythonAlgorithme + 
+Sorulai/Sorulai.github.io + 
